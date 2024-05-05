@@ -6,6 +6,8 @@ Zjistit, jak konzumace alkoholu ovlivňuje akademické výsledky studentů.
 
 Cílem je analyzovat, zda existuje souvislost mezi množstvím konzumovaného alkoholu, četností sociálních aktivit a výkonem ve škole.
 
+Zdroj dat: https://www.kaggle.com/datasets/joshuanaude/effects-of-alcohol-on-student-performance/data
+
 
 ### Krok 1: Načtení a příprava dat
 
