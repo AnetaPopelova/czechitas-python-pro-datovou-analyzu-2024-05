@@ -33,5 +33,5 @@ Pokyny pro instalaci najdete zde: [Instalace modulu](https://kodim.cz/analyza-da
 | 21.05.2024  | Podmíněný výběr v `pandas`                                    | [Materiály lekce 2](notebooks/lekce-02) |
 | 28.05.2024  | Propojování tabulek, agregace dat a řazení | [Materiály lekce 3](notebooks/lekce-03) |
 | 04.06.2024  | Vizualizace s využitím knihovny `seaborn`                   | [Materiály lekce 4](notebooks/lekce-04) |
-| 11.06.2024  | Datum a čas, metoda `shift`, pivot tabulky                  | [Materiály lekce 5](notebooks/lekce-05) |
-| 18.06.2024  | Case Study + Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) |
+| 11.06.2024  | Pivot tabulky                  | [Materiály lekce 5](notebooks/lekce-05) |
+| 18.06.2024  | Datum a čas, metoda `shift`  + Datová analýza s využitím AI nástrojů                     | [Materiály lekce 6](notebooks/lekce-06) |
